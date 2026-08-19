@@ -43,3 +43,11 @@ Si es posible, añade capturas de pantalla o registros de errores.
 - Versión del proyecto: [p. ej., 1.0.0]
 
 ### Información adiciona
+
+---
+name: Bug Report
+about: Crea un reporte para ayudarnos a mejorar
+title: '[Bug]: '
+labels: 'bug'
+assignees: ''
+---
