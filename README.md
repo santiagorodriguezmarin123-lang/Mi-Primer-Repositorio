@@ -1,13 +1,7 @@
-<<<<<<< HEAD
-# MiPrimerRepositorio
-Este es mi primer repositorio en GitHub
+:computer: **Ingeniero de Software en UPS**
+:pencil: **Generador de contenido**
+:eyeglasses: **Geek emperdernido**
+:oncoming_automibile: **Fan del tenis de campo, de la tecnologia y lecturas**
 
-Mi primera contribucion local para GitHub
-=======
-# Mi-Primer-Repositorio
-Mi primer repositorio git
-
-Un commit maás desde GitHub
-
-Nueva actualizacion
->>>>>>> e05cb78a4dd4aed0e41e2c793611a99d33003845
+### Vias de contacto
+[![website]](https://platzi.com/cursos/gitgithub/creacion-de-una-portada-de-perfil-en-git/)
